@@ -1,5 +1,5 @@
 <?php
-/*
+/**426589425:AAEl1ryWZ1a5Y_eAZgZhpB4PW00UP2vYZk0**
 سورس اصلی ربات پی وی رسان
 @PvResanBot
 دست هیچ بنی بشری نیست و نخواهد بود
@@ -31,6 +31,29 @@ site: https://feelthecode.com
 Telegram Bot: https://telegram.me/PvResanBot
 Telegram Channel: https://telegram.me/PvResan
 
-یا علی خدا قوت
-*/
+یا علی خدا قو
+/**297998093**
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
